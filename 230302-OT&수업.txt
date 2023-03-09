@@ -1,0 +1,30 @@
+개발블로그[취업도움됨](벨로그)
+코딩테스트 연습
+
+https://velog.io/@jaybon/%EA%B0%9C%EB%B0%9C-%EA%B4%80%EB%A0%A8-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%9E%90%EB%A3%8C - 교수님창고JQ
+
+[VS기초설정]
+git init
+git add .
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/packsunjun/first-1.git
+git push -u origin master
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
